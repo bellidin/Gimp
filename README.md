@@ -1,7 +1,6 @@
 *Atividades GIMP*
 <br/>
 PROJETOS: 
-<br/>
 - Imagem Batman sem fundo
 - Imagem Batman avatar
 - Imagem mulher (retirar outra pessoa da imagem)

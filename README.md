@@ -1,5 +1,6 @@
 *Atividades GIMP*
 <br/>
+<br/>
 PROJETOS: 
 - Imagem Batman sem fundo
 - Imagem Batman avatar
